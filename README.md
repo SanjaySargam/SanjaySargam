@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DSA,**
 
-- 💬 Ask me about **Android, Java , Firebase, C**
+- 💬 Ask me about **Android, Java , Kotlin , Firebase, C**, Flutter, Dart
 
 - 📫 How to reach me **sargamsanjaykumar@gmail.com**
 
