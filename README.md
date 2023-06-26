@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sanjaykumar Sargam</h1>
+<h1 align="center">Hi 👋, I'm Sanjay Sargam</h1>
 <h3 align="center">I am an Android Developer who love to convert ideas into android apps.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjaysargam&label=Profile%20views&color=0e75b6&style=flat" alt="sanjaysargam" /> </p>
